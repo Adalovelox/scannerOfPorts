@@ -1,4 +1,4 @@
 # scannerOfPorts
-scan those ports
 
-scan them real good
+
+a simple port scanner
